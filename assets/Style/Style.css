@@ -91,10 +91,7 @@ a:any-link {
     margin: auto;
   }
 
-  .footer{
-    margin: auto;
-    width: 100%;
-  }
+  
 }
 
 /* End of General Style */
@@ -539,6 +536,15 @@ caption {
   background: steelblue;
   transition: all 0.5s ease-in-out;
   box-shadow: 0 0 6px 2px #333;
+}
+
+@media all and (min-width: 1440px){
+  .footer {
+    
+  position: relative;
+  width: 100%;
+  bottom: 0;
+  }
 }
 
 .social-icon-container {

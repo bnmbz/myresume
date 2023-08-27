@@ -90,6 +90,10 @@ a:any-link {
     width: 1000px;
     margin: auto;
   }
+
+  .footer{
+    position: static;
+  }
 }
 
 /* End of General Style */

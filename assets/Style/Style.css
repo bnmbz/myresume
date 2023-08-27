@@ -92,7 +92,8 @@ a:any-link {
   }
 
   .footer{
-    position: static;
+    position: relative;
+    width: 100%;
   }
 }
 

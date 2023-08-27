@@ -89,6 +89,7 @@ a:any-link {
   body {
     width: 1000px;
     margin: auto;
+    overflow-x:hidden;
   }
 
   
